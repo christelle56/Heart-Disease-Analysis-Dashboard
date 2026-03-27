@@ -1,8 +1,8 @@
 #  Heart Disease Analysis Dashboard in Power BI
 An interactive Power BI dashboard designed to analyze and visualize patient survival rates based on clinical factors such as age, serum creatinine, ejection fraction, and lifestyle comorbidities.
 
-<img width="1377" height="706" alt="Heart_Disease_Dataset Dashboard" src="https://github.com/user-attachments/assets/b93b4068-4d07-44bb-8079-f6c78408e44c" />
 
+<img width="1300" height="677" alt="Screenshot 2026-03-27 124509" src="https://github.com/user-attachments/assets/0d18709b-f240-492d-9b67-805578eaefd1" />
 
 # Project Overview
 
